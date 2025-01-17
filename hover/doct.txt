@@ -1,0 +1,6 @@
+sabse pahele ye pata karo ke mouse rectangle par aya and move hua ya nahi.
+
+ab ye calculate karo ki hum center se left par hai ya center se right par hai.
+
+ab ye calculate karo ki hum center se kitna left par hai, jitna left par hai
+utni intensity se color red lagao.
